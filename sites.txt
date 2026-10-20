@@ -1,0 +1,5 @@
+# One site per line. Lines starting with '#' are ignored.
+# "https://" is added automatically if you leave it out.
+https://www.example.com
+wikipedia.org
+github.com
